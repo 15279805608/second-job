@@ -23,3 +23,5 @@
 /nbdist/
 /.nb-gradle/
 /build/
+springbucks/target/classes/
+web-resttemplate-demo/target/classes/
